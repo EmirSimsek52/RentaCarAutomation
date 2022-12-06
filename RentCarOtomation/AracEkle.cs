@@ -21,12 +21,12 @@ namespace RentCarOtomation
         private string baglantiCumlesi = @"Data Source=.\SQLEXPRESS;Initial Catalog=RentCar;Integrated Security=True";
 
 
-        private void pictureBox2_Click(object sender, EventArgs e)
+        private void pictureBox2Cıkıs_Click(object sender, EventArgs e)
         {
             this.Close();
         }
 
-        private void button3_Click(object sender, EventArgs e)
+        private void btnCıkıs_Click(object sender, EventArgs e)
         {
             this.Close();
         }
