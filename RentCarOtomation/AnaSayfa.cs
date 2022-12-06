@@ -18,23 +18,23 @@ namespace RentCarOtomation
             InitializeComponent();
         }
 
-        private void pictureBox2_Click(object sender, EventArgs e)
+        private void pictureBoxCıkıs_Click(object sender, EventArgs e)
         {
             this.Close();
         }
 
-        private void button3_Click(object sender, EventArgs e)
+        private void buttonCıkıs_Click(object sender, EventArgs e)
         {
             this.Close();
         }
 
-        private void button1_Click(object sender, EventArgs e)
+        private void buttonMusteriEkle_Click(object sender, EventArgs e)
         {
             Form2 musteriEkle = new Form2();
             musteriEkle.Show();
         }
 
-        private void pictureBox3_Click(object sender, EventArgs e)
+        private void pictureBoxMusteriEkle_Click(object sender, EventArgs e)
         {
             Form2 musteriEkle = new Form2();
             musteriEkle.Show();
@@ -45,62 +45,62 @@ namespace RentCarOtomation
 
         }
 
-        private void button5_Click(object sender, EventArgs e)
+        private void buttonMusteriLiset_Click(object sender, EventArgs e)
         {
             frmMusteriListele frmMusteriListele = new frmMusteriListele();
             frmMusteriListele.Show();
         }
 
-        private void pictureBox5_Click(object sender, EventArgs e)
+        private void pictureBoxMusteriListe_Click(object sender, EventArgs e)
         {
             frmMusteriListele frmMusteriListele = new frmMusteriListele();
             frmMusteriListele.Show();
         }
 
-        private void button2_Click(object sender, EventArgs e)
+        private void buttonAracEkle_Click(object sender, EventArgs e)
         {
             AracEkle aracEkle = new AracEkle();
             aracEkle.Show();
         }
 
-        private void pictureBox4_Click(object sender, EventArgs e)
+        private void pictureBoxAracEkle_Click(object sender, EventArgs e)
         {
             AracEkle aracEkle = new AracEkle();
             aracEkle.Show();
         }
 
-        private void button6_Click(object sender, EventArgs e)
+        private void buttonSozlesme_Click(object sender, EventArgs e)
         {
             Sozlesmeler sozlesmeler = new Sozlesmeler();
             sozlesmeler.Show();
 
         }
 
-        private void pictureBox6_Click(object sender, EventArgs e)
+        private void pictureBoxAracListe_Click(object sender, EventArgs e)
         {
             AracListele aracListele = new AracListele();
             aracListele.Show();
         }
 
-        private void button4_Click(object sender, EventArgs e)
+        private void buttonAracListe_Click(object sender, EventArgs e)
         {
             AracListele aracListele = new AracListele();
             aracListele.Show();
         }
 
-        private void pictureBox7_Click(object sender, EventArgs e)
+        private void pictureBoxSozlesme_Click(object sender, EventArgs e)
         {
             Sozlesmeler sozlesmeler = new Sozlesmeler();
             sozlesmeler.Show();
         }
 
-        private void button7_Click(object sender, EventArgs e)
+        private void buttonTeslimat_Click(object sender, EventArgs e)
         {
             Teslimatlar teslimatlar = new Teslimatlar();
             teslimatlar.Show();     
         }
 
-        private void pictureBox8_Click(object sender, EventArgs e)
+        private void pictureBoxTeslimat_Click(object sender, EventArgs e)
         {
             Teslimatlar teslimatlar = new Teslimatlar();
             teslimatlar.Show();
