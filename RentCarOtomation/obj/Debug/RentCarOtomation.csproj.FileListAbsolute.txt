@@ -1,0 +1,17 @@
+C:\Users\Emir\source\repos\RentCarOtomation\RentCarOtomation\bin\Debug\RentCarOtomation.exe.config
+C:\Users\Emir\source\repos\RentCarOtomation\RentCarOtomation\bin\Debug\RentCarOtomation.exe
+C:\Users\Emir\source\repos\RentCarOtomation\RentCarOtomation\bin\Debug\RentCarOtomation.pdb
+C:\Users\Emir\source\repos\RentCarOtomation\RentCarOtomation\obj\Debug\RentCarOtomation.csproj.AssemblyReference.cache
+C:\Users\Emir\source\repos\RentCarOtomation\RentCarOtomation\obj\Debug\RentCarOtomation.csproj.SuggestedBindingRedirects.cache
+C:\Users\Emir\source\repos\RentCarOtomation\RentCarOtomation\obj\Debug\RentCarOtomation.Form1.resources
+C:\Users\Emir\source\repos\RentCarOtomation\RentCarOtomation\obj\Debug\RentCarOtomation.Properties.Resources.resources
+C:\Users\Emir\source\repos\RentCarOtomation\RentCarOtomation\obj\Debug\RentCarOtomation.csproj.GenerateResource.cache
+C:\Users\Emir\source\repos\RentCarOtomation\RentCarOtomation\obj\Debug\RentCarOtomation.csproj.CoreCompileInputs.cache
+C:\Users\Emir\source\repos\RentCarOtomation\RentCarOtomation\obj\Debug\RentCarOtomation.exe
+C:\Users\Emir\source\repos\RentCarOtomation\RentCarOtomation\obj\Debug\RentCarOtomation.pdb
+C:\Users\Emir\source\repos\RentCarOtomation\RentCarOtomation\obj\Debug\RentCarOtomation.Form2.resources
+C:\Users\Emir\source\repos\RentCarOtomation\RentCarOtomation\obj\Debug\RentCarOtomation.frmMusteriListele.resources
+C:\Users\Emir\source\repos\RentCarOtomation\RentCarOtomation\obj\Debug\RentCarOtomation.AracEkle.resources
+C:\Users\Emir\source\repos\RentCarOtomation\RentCarOtomation\obj\Debug\RentCarOtomation.AracListele.resources
+C:\Users\Emir\source\repos\RentCarOtomation\RentCarOtomation\obj\Debug\RentCarOtomation.Sozlesme.resources
+C:\Users\Emir\source\repos\RentCarOtomation\RentCarOtomation\obj\Debug\RentCarOtomation.Sozlesmeler.resources
